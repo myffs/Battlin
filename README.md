@@ -44,3 +44,8 @@ Finally, to update haxeflixel, type:
 ```
 haxelib update flixel
 ```
+
+# Credits
+
+- MyFnf - Developer
+- Hoovy - Main Programmer
